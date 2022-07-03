@@ -262,9 +262,5 @@ public:
 
 int main()
 {
-    geomVector<int, 4> din {1, 2, 3, 5};
-    geomVector<int, 4> dinn {1, 2, 3, 4};
-    dinn = din;
-    std::cout << dinn << std::endl;
     return 0;
 }

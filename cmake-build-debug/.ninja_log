@@ -1,4 +1,7 @@
 # ninja log v5
 476	568	6781127128101892	tempForSem.exe	dca131e428b93d7f
 469	554	6785370756105998	TasksKuznetsovSummer2022.exe	40c329cea6eecee5
-2	469	6785370755281076	CMakeFiles/TasksKuznetsovSummer2022.dir/Nedelya_1.cpp.obj	64f69563c62bae83
+1	556	6785438328716271	CMakeFiles/TasksSummer2022.dir/Solutions/Nedelya_1.cpp.obj	610f8f98f38d59cc
+557	694	6785438330061161	TasksSummer2022.exe	6d86f27fdc610564
+4	604	6785438490533110	CMakeFiles/TasksSummer2022.dir/Solutions/Nedelya_1.cpp.obj	610f8f98f38d59cc
+605	749	6785438491873453	TasksSummer2022.exe	6d86f27fdc610564

@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "TasksKuznetsovSummer2022.exe"
+			"path" : "TasksSummer2022.exe"
 		},
 		{
-			"path" : "TasksKuznetsovSummer2022.pdb"
+			"path" : "TasksSummer2022.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "TasksKuznetsovSummer2022::@6890427a1f51a3e7e1df",
+	"id" : "TasksSummer2022::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "TasksKuznetsovSummer2022",
-	"nameOnDisk" : "TasksKuznetsovSummer2022.exe",
+	"name" : "TasksSummer2022",
+	"nameOnDisk" : "TasksSummer2022.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -101,7 +101,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Nedelya_1.cpp",
+			"path" : "Solutions/Nedelya_1.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
