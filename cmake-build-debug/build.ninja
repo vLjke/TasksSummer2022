@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/vladi/Documents/ClionProjects/C_C++/TasksSummer2
 
 build cmake_object_order_depends_target_TasksSummer2022: phony || CMakeFiles/TasksSummer2022.dir
 
-build CMakeFiles/TasksSummer2022.dir/Solutions/Nedelya_1.cpp.obj: CXX_COMPILER__TasksSummer2022_Debug C$:/Users/vladi/Documents/ClionProjects/C_C++/TasksSummer2022/Solutions/Nedelya_1.cpp || cmake_object_order_depends_target_TasksSummer2022
-  DEP_FILE = CMakeFiles\TasksSummer2022.dir\Solutions\Nedelya_1.cpp.obj.d
+build CMakeFiles/TasksSummer2022.dir/Solutions/Task_2.cpp.obj: CXX_COMPILER__TasksSummer2022_Debug C$:/Users/vladi/Documents/ClionProjects/C_C++/TasksSummer2022/Solutions/Task_2.cpp || cmake_object_order_depends_target_TasksSummer2022
+  DEP_FILE = CMakeFiles\TasksSummer2022.dir\Solutions\Task_2.cpp.obj.d
   FLAGS = -g -std=gnu++17
   OBJECT_DIR = CMakeFiles\TasksSummer2022.dir
   OBJECT_FILE_DIR = CMakeFiles\TasksSummer2022.dir\Solutions
@@ -63,7 +63,7 @@ build CMakeFiles/TasksSummer2022.dir/Solutions/Nedelya_1.cpp.obj: CXX_COMPILER__
 #############################################
 # Link the executable TasksSummer2022.exe
 
-build TasksSummer2022.exe: CXX_EXECUTABLE_LINKER__TasksSummer2022_Debug CMakeFiles/TasksSummer2022.dir/Solutions/Nedelya_1.cpp.obj
+build TasksSummer2022.exe: CXX_EXECUTABLE_LINKER__TasksSummer2022_Debug CMakeFiles/TasksSummer2022.dir/Solutions/Task_2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\TasksSummer2022.dir

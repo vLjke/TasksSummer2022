@@ -3,4 +3,4 @@ project(TasksSummer2022)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(TasksSummer2022 Solutions/Nedelya_1.cpp)
+add_executable(TasksSummer2022 Solutions/Task_2.cpp)

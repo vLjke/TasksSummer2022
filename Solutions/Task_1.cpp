@@ -105,7 +105,7 @@ public:
     geomVector<T, N> operator-(const geomVector<T, N>& right) const {
         geomVector<T, N> result;
         for (int i = 0; i < N; ++i)
-            result[i] = this->data[i] - right[i];
+            result[i] = this->data[i] - right.getData()[i];
         return result;
     }
     friend geomVector<T, N>& operator-(geomVector<T, N>& vect) {
